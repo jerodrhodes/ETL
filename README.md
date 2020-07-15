@@ -1,6 +1,10 @@
-# Dylan Obermueller, Carlee Young, Jerod Rhodes, and Trevor Guleserian
 
-# Guidelines for ETL Project
+
+## Guidelines for ETL Project
+
+# Project by: Dylan Obermueller, Carlee Young, Jerod Rhodes, and Trevor Guleserian
+
+
 This document contains guidelines, requirements, and suggestions for Project 1.
 
 Team Effort
