@@ -1,4 +1,4 @@
-
+### Write up link:  https://docs.google.com/document/d/1kxnVnJOcUDNd3EycM1Ljv6JF85O0lqrtJBPT6n2jtbU/edit?usp=sharing
 
 # Guidelines for ETL Project
 
