@@ -1,10 +1,10 @@
-### Write up link:  https://docs.google.com/document/d/1kxnVnJOcUDNd3EycM1Ljv6JF85O0lqrtJBPT6n2jtbU/edit?usp=sharing
 
-# Guidelines for ETL Project
+
+# ETL Project
 
 ## Project by: Dylan Obermueller, Carlee Young, Jerod Rhodes, and Trevor Guleserian
 
-This document contains guidelines, requirements, and suggestions for Project 1.
+### Write up link:  https://docs.google.com/document/d/1kxnVnJOcUDNd3EycM1Ljv6JF85O0lqrtJBPT6n2jtbU/edit?usp=sharing
 
 ## Team Effort
 
