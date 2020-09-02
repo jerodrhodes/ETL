@@ -1,4 +1,4 @@
-
+I forked this repository because we worked on this as a team, but I wanted to have a copy of the file in my own personal GitHub repository.
 
 # ETL Project
 
